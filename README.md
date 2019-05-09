@@ -9,33 +9,42 @@ Professor: Samuel Martins
 
 Exercício 2
 
-- URL para acesso projeto no browser:
-http://localhost:3000
-http://localhost:3000/form
-http://localhost:3000/api/products/list
+- COMANDO para SUBIR o serviço:
+  - npm start
 
-- GET para listar produtos
-http://localhost:3000/api/products/list
+<br/>
+- Exercício 2.1
+  - URL para acesso do projeto no browser:  
+    http://localhost:3000/form 
+   
+  <br/>
+- Exercício 2.2
+  - GET para listar produtos  
+    http://localhost:3000/api/products/list
 
-- POST para add produtos:
-http://localhost:3000/api/products
-usar JSON padrão como abaixo:
-{
-  "id":1, 
-  "name":"andre", 
-  "description":"new"
-}
+  - POST para add produtos:  
+    http://localhost:3000/api/products
+      
+    usar JSON padrão como abaixo:
+    ```json
+    {
+      "id":1, 
+      "name":"andre", 
+      "description":"new"
+    }
 
-- DELETE para remover produtos:
-http://localhost:3000/api/products/3
-onde o numero final é o id do produto
+  - DELETE para remover produtos:  
+    http://localhost:3000/api/products/3  
+    onde o numero final é o id do produto
 
-- PUT para atualizar produtos:
-http://localhost:3000/api/products/2
-onde o numero final é o id do produto
-usar JSON padrão como abaixo:
-{
-  "id":1, 
-  "name":"André", 
-  "description":"update"
-}
+  - PUT para atualizar produtos:  
+    http://localhost:3000/api/products/2  
+    onde o numero final é o id do produto
+
+    usar JSON padrão como abaixo:
+    ```json
+    {
+      "id":1, 
+      "name":"André", 
+      "description":"update"
+    }
