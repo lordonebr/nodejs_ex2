@@ -10,9 +10,8 @@ Professor: Samuel Martins
 ## Exercício 2
 
 - COMANDO para SUBIR o serviço:
-  - npm start
-  
-    
+  ```
+  npm start
 ### - Exercício 2.1
   - URL para acesso do projeto no browser:  
     http://localhost:3000/form 
