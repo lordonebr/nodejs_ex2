@@ -12,12 +12,12 @@ Exercício 2
 - COMANDO para SUBIR o serviço:
   - npm start
 
-<br/>
+
 - Exercício 2.1
   - URL para acesso do projeto no browser:  
     http://localhost:3000/form 
    
-  <br/>
+ 
 - Exercício 2.2
   - GET para listar produtos  
     http://localhost:3000/api/products/list
