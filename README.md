@@ -1,7 +1,7 @@
 # nodejs_ex2
 POS graduação
 
-Curso: Desenvolvimento web Full Stack
+Curso: Desenvolvimento Web Full Stack
 
 Disciplina: Programação web com Node.js
 
