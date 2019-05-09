@@ -7,18 +7,18 @@ Disciplina: Programação web com Node.js
 
 Professor: Samuel Martins
 
-Exercício 2
+## Exercício 2
 
 - COMANDO para SUBIR o serviço:
   - npm start
-
-
-- Exercício 2.1
+  
+    
+### - Exercício 2.1
   - URL para acesso do projeto no browser:  
     http://localhost:3000/form 
    
  
-- Exercício 2.2
+### - Exercício 2.2
   - GET para listar produtos  
     http://localhost:3000/api/products/list
 
