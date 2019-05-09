@@ -2,10 +2,12 @@
 POS graduação
 
 Curso: Desenvolvimento web Full Stack
+
 Disciplina: Programação web com Node.js
+
 Professor: Samuel Martins
 
-- Exercício 2 de NODE.JS
+Exercício 2
 
 - URL para acesso projeto no browser:
 http://localhost:3000
